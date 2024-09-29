@@ -13,5 +13,5 @@ This project performs **topic modeling** on text datasets using the **LDA** algo
 - 📊 **Interactive insights** from textual datasets with clear visualization.
 
 ## 📂 Dataset
-The data used for this project is available [here](#). Feel free to explore it and analyze your own datasets!
+The data used for this project is available [here](./articles). Feel free to explore it and analyze your own datasets!
 
