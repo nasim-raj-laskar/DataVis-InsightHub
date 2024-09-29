@@ -15,8 +15,3 @@ This project performs **topic modeling** on text datasets using the **LDA** algo
 ## 📂 Dataset
 The data used for this project is available [here](#). Feel free to explore it and analyze your own datasets!
 
-## 🛠 Installation & Setup
-```bash
-git clone https://github.com/your-username/Text-Insight.git
-cd Text-Insight
-pip install -r requirements.txt
