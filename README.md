@@ -12,7 +12,7 @@ Welcome to **DataVis-InsightHub**, a collection of three advanced data analysis 
 2. **Text-Insight: LDA Topic Modeling** 📝🔎
    - Uncover hidden topics in text data using Latent Dirichlet Allocation (LDA) with intuitive word cloud visualizations.
    - **Tools**: Gensim, NLTK, WordCloud, Matplotlib.
-   - **Project** [Click here→](./LDA-Topic_Modeling)
+   - **Project** [Click here→](./LDA-Topic-Modeling)
 
 3. **ClimateChange-DataAnalysis** 🌍📈
    - A collection of environmental data analysis projects, including CO2 emissions, land and forest cover changes, and global temperature trends.
