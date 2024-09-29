@@ -42,7 +42,7 @@ These images were used to train and evaluate the model’s ability to distinguis
    - **Source**: The dataset which contains various flower species, including Magnolia Campbelli and other types is in [here](./data_cleaned).
 
 2. **Final Output Dataset**:
-   - The final output dataset which contains classified images with labels is in [here](ouput/output_data.csv)
+   - The final output dataset which contains classified images with labels is in [here](output/output_data.csv)
  
 
 
