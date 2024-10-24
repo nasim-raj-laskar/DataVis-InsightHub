@@ -1,6 +1,6 @@
 # DataVis-InsightHub 📊🌍📸🐦
 
-Welcome to **DataVis-InsightHub**, a collection of three advanced data analysis projects focusing on image analysis, topic modeling, and climate change data. These projects showcase the power of machine learning, natural language processing, and environmental data analysis with insightful visualizations.
+Welcome to DataVis-InsightHub, a collection of four advanced data analysis projects focusing on image analysis, topic modeling, climate change data, and audio analysis. These projects showcase the power of machine learning, natural language processing, and environmental data analysis with insightful visualizations.
 
 ## 📁 Project List
 
