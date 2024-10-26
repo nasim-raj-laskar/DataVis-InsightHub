@@ -18,10 +18,23 @@ CapuchinNet is an audio-based machine learning project focused on detecting Capu
 - #### 📈 Model Evaluation:
   - Performance visualization with loss & accuracy plots.
   - Confusion Matrix Analysis.
+## 📷 Visuals
+To help understand the data and preprocessing steps, here are some key visuals from the project:
 
+### 1.Raw Audio Waveforms
+
+_This plot showcases the raw waveforms of different audio samples, providing a view of the initial audio structure before preprocessing._
+
+### 2.Waveform and Spectrogram
+
+_Illustrates the transformation of an audio waveform into its corresponding spectrogram, highlighting how frequency components evolve over time._
+
+### 3.Spectrograms of Various Samples
+
+_A grid of spectrograms from different samples, showing distinct audio frequency patterns that help in identifying Capuchinbird calls._
 ## 📊 Results
-- Test Accuracy: X%
-- Number of Correctly Detected Calls: Y / Z
+- Test Accuracy: 97%
+
 ## 🛠️ Technologies Used
 - Python
 - TensorFlow & Keras
