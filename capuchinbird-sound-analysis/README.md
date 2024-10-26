@@ -24,16 +24,23 @@ To help understand the data and preprocessing steps, here are some key visuals f
 ### 1.Raw Audio Waveforms
 
 _This plot showcases the raw waveforms of different audio samples, providing a view of the initial audio structure before preprocessing._
+![waveforms](./img/op.png)
 
 ### 2.Waveform and Spectrogram
 
 _Illustrates the transformation of an audio waveform into its corresponding spectrogram, highlighting how frequency components evolve over time._
+![spectogram](./img/op1.png)
 
 ### 3.Spectrograms of Various Samples
 
 _A grid of spectrograms from different samples, showing distinct audio frequency patterns that help in identifying Capuchinbird calls._
+![spectorgram-all](./img/op2.png)
+
 ## 📊 Results
 - Test Accuracy: 97%
+- Loss curve.
+  _loss_
+- ![loss](./img/op3.png)
 
 ## 🛠️ Technologies Used
 - Python
