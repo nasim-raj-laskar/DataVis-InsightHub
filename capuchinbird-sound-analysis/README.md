@@ -1,7 +1,7 @@
 # Capuchinbird-sound-analysis 🐦
 
 ## 🎯 Project Overview
-CapuchinNet is an audio-based machine learning project focused on detecting Capuchinbird calls amidst diverse environmental noise. Utilizing spectrogram analysis, YAMNet embeddings, and transfer learning, this project builds an effective classification model to distinguish Capuchinbird calls from other noises.
+[Audio_analysis(1).ipynb](https://github.com/nasim-raj-laskar/DataVis-InsightHub/blob/main/capuchinbird-sound-analysis/Audio_analysis%20(1).ipynb) is an audio-based machine learning project focused on detecting Capuchinbird calls amidst diverse environmental noise. Utilizing spectrogram analysis, YAMNet embeddings, and transfer learning, this project builds an effective classification model to distinguish Capuchinbird calls from other noises.
 
 ## 🚀 Features
 - #### 🎵 Preprocessing Methods:
